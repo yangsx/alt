@@ -1,6 +1,6 @@
 # alt
 
-A Clojure library designed to provide alternatives in code.
+A macro to provide alternatives in Clojure code.
 
 This library is inspired by Patrick Stein's [Alternatives](https://github.com/nklein/alternatives)
 in Common Lisp. As argued by Patrick, you may want to keep alternative code
